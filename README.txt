@@ -11,6 +11,12 @@ agentframework.py
 in.txt
 _pycache_
 
+Coding language:
+Python
+
+Software used:
+Spyder (anaconda 3)
+
 Issues/Errors:
 The model would have gone on to be animated and then placed into a GUI and been combined with data from the web.
 This code was unable to be initialised correctly but is still hashtagged out at the bottom of the model for reference and to ensure, the rest of the model is clear to read and understand. 
