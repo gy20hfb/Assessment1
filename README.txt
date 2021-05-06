@@ -9,6 +9,7 @@ Files for model to run:
 model9.py
 agentframework.py
 in.txt
+_pycache_
 
 Issues/Errors:
 The model would have gone on to be animated and then placed into a GUI and been combined with data from the web.
